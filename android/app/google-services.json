@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674981416486",
+    "project_id": "user-list-win",
+    "storage_bucket": "user-list-win.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674981416486:android:7e1402a70d27e09544a0e7",
+        "android_client_info": {
+          "package_name": "com.example.user_list_win"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674981416486-jjjhgj26i7bugdan5d16vfiaj3g6dd4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjDuwIbp7Dr_vwcwqPNAh_4XXNRQ0bb2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674981416486-jjjhgj26i7bugdan5d16vfiaj3g6dd4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
